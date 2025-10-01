@@ -1,4 +1,4 @@
-# NHLPLAY - NHL Stats Tracking Web Application
+# NHLPLAY - NHL Stats Made Fun
 
 ![NHLPLAY](promo-banner.jpg)
 
