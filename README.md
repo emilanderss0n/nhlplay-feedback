@@ -1,6 +1,6 @@
 # NHLPLAY - Your Ultimate NHL Companion
 
-![NHLPLAY](assets/img/promo-banner.jpg)
+![NHLPLAY](promo-banner.jpg)
 
 **NHLPLAY** is a feature-rich web app for hockey fans who want more than just box scores. Track live games, dive deep into player stats, follow your favorite players, and never miss a moment of NHL action.
 
@@ -86,3 +86,4 @@ NHLPLAY is a passion project built by a hockey fan, for hockey fans. It's design
 ---
 
 Made with ❤️ for hockey fans everywhere
+
