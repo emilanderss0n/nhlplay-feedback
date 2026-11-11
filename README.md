@@ -4,7 +4,7 @@
 
 **NHLPLAY** is a feature-rich web app for hockey fans who want more than just box scores. Track live games, dive deep into player stats, follow your favorite players, and never miss a moment of NHL action.
 
-🏒 **[Visit NHLPLAY](https://nhlplay.online)**
+🏒 **[Visit NHLPLAY](https://nhlplay.online)** | **[Feature Video](https://www.youtube.com/watch?v=zr6i63PVHe4)**
 
 ---
 
